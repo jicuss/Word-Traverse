@@ -1,0 +1,5 @@
+**.pyc
+.idea/**/*
+load_env.sh
+word_traverse_env/**/*
+word_traverse.egg-info/**/*
